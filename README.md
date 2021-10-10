@@ -2,7 +2,9 @@
 
 - animation takes effect as you scroll down
 <br>
-- [view deployment](https://geekelectronics.io/)
+
+- [click here to view deployment](https://kojoyeboah53i.github.io/gsap-with-vanillaJS/)
+
 <br>
 <br>
 <img src="Screenshot.png" align="center">
